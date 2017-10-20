@@ -1,0 +1,7 @@
+language: c
+compiler:
+ - gcc
+os:
+ - linux
+script:
+    gcc -o work/task1 work/task1.c work/main1.c
