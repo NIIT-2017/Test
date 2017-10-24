@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "test.h"
+#include "task1.h"
 
 int main(){
 	int age;
