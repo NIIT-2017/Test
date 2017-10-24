@@ -10,5 +10,5 @@ int main()
 		printf("Access granted.\n");
 	else 
 		printf("Access denied");
-	retunr 0;
+	return 0;
 }
