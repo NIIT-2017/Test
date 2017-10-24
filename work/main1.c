@@ -5,7 +5,7 @@
 {
     int age;
     printf("Enter your age: ");
-    scanf_s("%d", &age);
+    scanf("%d", &age);
     if(checkAge(age) == 1)
       printf("Access granted\n");
     else
