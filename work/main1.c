@@ -6,4 +6,18 @@
 //  Copyright © 2017 appmasters. All rights reserved.
 //
 
-#include "main1.h"
+
+#include "task1.h"
+#include <stdio.h>
+
+int main()
+{
+    int age;
+    printf("Enter your age: ");
+    scanf("%d", &age);
+    if (checAge(age == 1))
+        printf("Access granted\n");
+    else
+        printf("Access deinied\n");
+    return 0; 
+}

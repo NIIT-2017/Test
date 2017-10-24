@@ -11,3 +11,6 @@
 
 
 #endif /* task1_h */
+
+
+int checkAge(int age); 
