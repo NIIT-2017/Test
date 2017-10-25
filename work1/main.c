@@ -4,9 +4,9 @@
 int main()
 {
   int age;
-  printf("Enter age");
+  printf("Enter age: ");
   scanf("%d", &age);
-  if (checkAge(age)==1))
+  if (checkAge(age)==1)
   printf ("Access granted\n");
   else
   printf ("Access denied!\n");
