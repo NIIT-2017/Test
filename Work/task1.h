@@ -1,0 +1,1 @@
+﻿int CheckAge (int Age);
