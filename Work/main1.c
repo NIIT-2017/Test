@@ -4,11 +4,11 @@
 int main()
 {
 	int Age;
-		Printf("Enter your age/h");
+		printf("Enter your age/n");
 		scanf(%d, &Age);
-		if (CheckAge(Age) == 0)
-			Printf("Acces granted/n");
+		if (CheckAge(Age) == 1)
+			Printf("Access granted/n");
 		else
-			printf("Acces denied/n");
+			printf("Access denied/n");
 		return 0;
 }
