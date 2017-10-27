@@ -1,4 +1,4 @@
-﻿include "task1.h"
+﻿#include "task1.h"
 int CheckAge(int Age)
 {
 	if (Age >= 18)
