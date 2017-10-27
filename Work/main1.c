@@ -1,14 +1,14 @@
-﻿#Include <stdio.h>
-#Include "task1.h"
+﻿#include <stdio.h>
+#include "task1.h"
 
 int main()
 {
 	int Age;
-		printf("Enter your age/n");
-		scanf(%d, &Age);
+		printf ("Enter your age");
+		scanf ("%d",&Age);
 		if (CheckAge(Age) == 1)
-			Printf("Access granted/n");
+			printf("Access granted");
 		else
-			printf("Access denied/n");
+			printf("Access denied");
 		return 0;
 }
