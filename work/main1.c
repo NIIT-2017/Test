@@ -12,6 +12,5 @@ int main()
 		printf("Access granted\n");
 	else
 		printf("Access denied\n");
-	getch();
 	return 0;
 }
