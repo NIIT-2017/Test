@@ -1,0 +1,11 @@
+
+
+git checkout %name% - переключить ветку 
+git branch %name% - создать новую ветку
+git status - состояние
+git add - добавляем файл
+git commit -m - фиксация изменений
+git config --global user.email "alexey_all@mail.ru"
+git config --global user.name "Lozhkin Alexey"
+git push - передача изменений на сервер\в репозиторий
+git pull - загрузить изменения себе на комп
