@@ -3,7 +3,7 @@
 
 int main()
 {
-   printf("%d\n",checkAge(18));
-   printf("%d\n",checkAge(8));
+   printf("%d\n",ageCheck(18));
+   printf("%d\n",ageCheck(8));
    return 0;
 }
