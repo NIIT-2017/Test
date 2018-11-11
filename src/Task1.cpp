@@ -4,7 +4,7 @@ int ageCheck(int age)
 		{
 			return 1;
 		}
-	else (age <=17);
+	else
 		{
 			return 0;
 		}
