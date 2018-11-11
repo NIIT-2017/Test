@@ -1,4 +1,2 @@
-#pragma once
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 int ageCheck(int age);

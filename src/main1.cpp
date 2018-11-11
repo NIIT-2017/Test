@@ -3,11 +3,9 @@
 int main()
 {
 	int age;
-	setlocale(LC_ALL, "");
-	cout << "¬ведите ваш возраст ";
-	cin >> age;
-	if (ageCheck(age) == 1) cout << "Access granted\n";
-	else cout << "Access denied\n";
-	system("pause");
+	printf("How old are you? ");
+	scanf("%d", &age);
+	if (ageCheck(age) == 1) printf("Access granted\n");
+	else printf("Access denied\n");
 	return 0;
 }
