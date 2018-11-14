@@ -5,18 +5,13 @@
 int main()
 {
 	int age = 0;
-
 	printf("Enter your age:");
-
 	scanf("%d", &age);
-
 	if (age >= 18)
-
-		printf("Access granted\n");
+		printf("Access granted");
 	else
-
-		printf("Access denied\n ");
-	
+		printf("Access denied");
 	return 0;
+
 
 }
