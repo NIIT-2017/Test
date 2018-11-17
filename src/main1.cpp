@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Task1.h"
+#include "task1.h"
 
 int main()
 {
