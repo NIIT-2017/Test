@@ -3,7 +3,8 @@
 
 int main()
 {
-	int a = 0;
-	scanf("%d", &a);
+	int AGE = 0;
+	scanf("%d", &AGE);
+	int age = AGE;
 	return 0;
 }
