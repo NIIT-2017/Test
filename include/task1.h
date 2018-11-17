@@ -1,6 +1,6 @@
 #ifndef TASK1_H
 #define TASK1_H
 
-int ageCheck(int age);
+int checkAge(int age);
 
 #endif

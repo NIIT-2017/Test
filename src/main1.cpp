@@ -8,7 +8,7 @@ int main()
 		printf("Vvedite vozrast\n");
 		int age = 0;
 		scanf("%d", &age);
-		int result = ageCheck(age);
+		int result = checkAge(age);
 		if (1 == result) // при сравнении единица слева!!!
 		{
 			puts("Access granted");
