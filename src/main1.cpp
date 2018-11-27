@@ -28,6 +28,6 @@ int main()
                 else
                     break;
     }
-    printf(CheckAge(age));
+    printf(checkAge(age));
     return 0;
 }
