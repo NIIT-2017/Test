@@ -10,7 +10,7 @@ int main()
 
         if (checkAge(age) == 0)
             printf("Access denied!\n");
-        if (checkAge(age) == 1)
+        else
             printf("Access granted!\n");
 
     return 0;
