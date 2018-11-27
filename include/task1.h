@@ -1,1 +1,1 @@
-const char* CheckAge(int age);
+const char* checkAge(int age);
