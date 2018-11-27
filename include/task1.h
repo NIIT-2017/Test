@@ -1,1 +1,1 @@
-int checkAge(int age);
+int ageCheck(int age);
