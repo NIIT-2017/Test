@@ -8,7 +8,7 @@ int main()
     printf("How old are you?\n");
     scanf("%d", &age);
 
-        if (checkAge(age) == 0)
+        if (ageCheck(age) == 0)
             printf("Access denied!\n");
         else
             printf("Access granted!\n");
