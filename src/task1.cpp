@@ -1,7 +1,8 @@
-const char* checkAge(int age)
+int checkAge(int age)
 {
-    if (age>0 && age<18)
-        return "Access denied\n";
-    else if (age >=18)
-        return "Access granted\n";
+    if (age >=18)
+        return 1;
+    else
+        return 0;
+
 }
