@@ -1,7 +1,16 @@
-int ageCheck(int age)
+
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include "header1.h"
+
+int main()
 {
-	if (age >= 18)
-		return 1;
+	int age = 0;
+	printf("How old are you ?");
+	scanf("%d", &age);
+	if (ageCheck(age) == 0)
+		printf("access denied\n");
 	else
-		return 0;
+		printf("access granted\n");
+	return 0;
 }
