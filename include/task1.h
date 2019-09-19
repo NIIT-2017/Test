@@ -1,2 +1,2 @@
 #pragma once
-int ageCheck(int);
+int ageCheck(int age);
