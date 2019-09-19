@@ -5,7 +5,7 @@ int main(){
 	int a;
 	cin >> a;
 	if (ageCheck(a))
-		cout << "Access granted" << endl;
-	else
 		cout << "Access denied" << endl;
+	else
+		cout << "Access granted" << endl;
 }
