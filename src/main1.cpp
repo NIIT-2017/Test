@@ -1,17 +1,17 @@
-#include <conio.h>
 #include <iostream>
 #include "task1.h"
 using namespace std;
 
 int main() {
 	int myAge;
+	cout << "How old are you?\n";
 	cin >> myAge;
-	if (ageCheck(myAge)) {
-		cout << "Access granted";
+	if (ageCheck(myAge) == 1) {
+		cout << "Access granted\n";
 	}
 	else {
-		cout << "Access denied";
+		cout << "Access denied\n";
 	}
-	//getch();
+	system("pause");
 	return 0;
 }
