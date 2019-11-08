@@ -1,3 +1,6 @@
+#include "task1.h"
+#iclude <stdio.h>
+
 int main()
 {
 	int age=0;
