@@ -1,9 +1,8 @@
-#include “task1.h“
- 
-int ageCheck(int age) 
+#include "task1.h"
+int ageCheck(int age)
 {
-	if(age>=18)
+	if (age >= 18)
 		return 1;
-	else 
+	else
 		return 0;
 }
