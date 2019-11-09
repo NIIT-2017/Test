@@ -1,0 +1,1 @@
+int ageСheck(int age);
