@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include "Test1.h"
+#include "Task1.h"
 #include <stdio.h>
 int main()
 {
