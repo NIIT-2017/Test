@@ -1,6 +1,6 @@
 #include "task1.h"
 
-int ageCheck(intage);
+int ageCheck(int age);
 
 {
 	if (age >= 18)
