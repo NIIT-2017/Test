@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include "Test.h"
+#include "task1.h"
 #include <stdio.h>
 #include <clocale>	// для перехода на русский язык
 
