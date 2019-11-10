@@ -12,7 +12,7 @@ int main() {
 	printf("ВВести возраст: ");
 	scanf("%d", &age);
 	int result = ageCheck(age);
-	if (result == 0)
+	if (result == 1)
 		printf("Доступ разрешён\n");
 	else
 		printf("Доступ запрещён\n");
