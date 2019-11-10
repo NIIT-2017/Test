@@ -5,7 +5,7 @@ int main()
 {
 	int age = 0;
 	printf("How old are you: ");
-	scanf_s("%d", &age);
+	scanf("%d", &age);
 	if (ageCheck(age))
 		printf("Access sucsesful");
 	else
