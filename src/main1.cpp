@@ -8,9 +8,9 @@ int main()
     scanf("%d", &age);
     int result = ageCheck(age);
     if (result == 1) {
-        printf("Access granted");
+        printf("Access granted\n");
     } else {
-        printf("Access denied");
+        printf("Access denied\n");
     }
     return 0;
 }
