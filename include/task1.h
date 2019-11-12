@@ -1,0 +1,2 @@
+int ageCheck(int age);
+
