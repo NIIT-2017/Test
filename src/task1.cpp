@@ -1,6 +1,6 @@
 #include "task1.h"
 
-int ageÑheck(int age)
+int agecheck(int age)
 {
     if (age >= 18)
         return 1;

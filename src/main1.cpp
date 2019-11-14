@@ -6,7 +6,7 @@ int main()
     int age=0;
     printf("How old are you?\n");
     scanf("%d", &age);
-    int result = ageÑheck(age);
+    int result = agecheck(age);
     if (result == 1)
         printf("Access granted!\n");
     else
