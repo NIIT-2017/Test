@@ -1,0 +1,2 @@
+int ageCheck (inr age)
+
