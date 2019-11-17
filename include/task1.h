@@ -1,1 +1,1 @@
-int ageCheck(int age);#pragma once
+int ageCheck(int age);
