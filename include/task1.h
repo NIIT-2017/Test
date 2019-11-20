@@ -1,2 +1,2 @@
-int ageCheck (inr age)
+int ageCheck (int age)
 
