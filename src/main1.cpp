@@ -4,8 +4,8 @@ int main()
 {
 	int age = 0;
 	printf("How old are you?\n");
-	scanf_s("%d", &age);
-	int result = ageCheck(age);
+	scanf("%d", &age);
+	int result = ageCheck(ag
 
 	if (result == 1)
 		printf("Access granted!\n");
