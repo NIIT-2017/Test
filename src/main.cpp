@@ -7,6 +7,6 @@ int main()
 	puts("enter your age:\n");
 	scanf_s("%d", &age);
 	int result = ageCheck(age);
-	if (result == 0) printf("Access granted\n");
+	if (result == 1) printf("Access granted\n");
 	else printf("Access denied\n");
 }
