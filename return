@@ -1,0 +1,104 @@
+[33mcommit 5c6061b5cadd6efd8484dc1faa1756dc8fb47934[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <marutibross@gmail.com>
+Date:   Thu Oct 13 20:07:25 2022 +0530
+
+    Hi is this edited
+
+[33mcommit b5158b890d531134cc52653cf506d47aff35c8d2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Sat Nov 9 18:04:35 2019 +0300
+
+    Update README.md
+
+[33mcommit ee46d79d5362a1c87d1817fcd8d306a690915202[m
+Author: Anton Shtanyuk <ashtanyuk@gmail.com>
+Date:   Tue Nov 27 11:54:55 2018 +0300
+
+    correction
+
+[33mcommit 3194acd82b4e26311591a6c090df8fb6b35741c9[m
+Merge: b9165e9 c3b1733
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Tue Nov 27 11:52:24 2018 +0300
+
+    Merge pull request #107 from krostis/b-38
+    
+    Тест1 Колесников
+
+[33mcommit c3b173312d1a527afad496e382f7522e183f4d17[m
+Author: Andrei <you@example.comkrostis77@mail.ru>
+Date:   Sat Nov 24 22:02:11 2018 +0300
+
+    комментарий
+
+[33mcommit b9165e9885ab7a79d849958f9cb5c46f4395cc76[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Thu Nov 1 10:39:10 2018 +0300
+
+    Исправлено описание задачи
+
+[33mcommit 3b478b04e4a7eba967dd402e64cabad672627877[m
+Author: Windows 7 <student7@std.nnov.corp.local>
+Date:   Wed Oct 31 13:24:10 2018 +0300
+
+    Initial commit 2
+
+[33mcommit 09b2456798ec15ff27969efa9c1e256c4caab9f0[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Wed Oct 31 13:07:09 2018 +0300
+
+    Update README.md
+
+[33mcommit 689877645c60175353d4de27cca2ec68e66aa88a[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Wed Oct 31 13:03:21 2018 +0300
+
+    Create README.md
+
+[33mcommit a3808f4678b5eec407cf78389671c6d4f63bd2f3[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Wed Oct 31 13:02:38 2018 +0300
+
+    Create README.md
+
+[33mcommit fdfeaeb4447b484ea9db497d5d52f949e5f4b84c[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Wed Oct 31 13:01:55 2018 +0300
+
+    Create README.md
+
+[33mcommit bb0da90718a1e79536bec863d3948bcd05d14b72[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Tue Oct 24 19:40:48 2017 +0300
+
+    Update README.md
+
+[33mcommit ea48c96aeca39e3e61ac268996e68bebadc8813b[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Fri Oct 20 11:34:18 2017 +0300
+
+    Update README.md
+
+[33mcommit 4e0802f5d9504f4f685a73a9a4a2c74f66ed54e7[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Fri Oct 20 11:33:15 2017 +0300
+
+    Update README.md
+
+[33mcommit b5db09d67fe13aa722a1ebc8e6b68d0e1152b5a5[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Fri Oct 20 11:26:58 2017 +0300
+
+    Update README.md
+
+[33mcommit a99e9a485a216a34094be381b880790e983a8657[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Fri Oct 20 11:17:59 2017 +0300
+
+    Create .travis.yml
+
+[33mcommit 8e3b2b826086fcd3df022f660c8195374d74278d[m
+Author: Anton A. Shtanyuk <ashtanyuk@gmail.com>
+Date:   Wed Oct 18 17:07:38 2017 +0300
+
+    Initial commit
